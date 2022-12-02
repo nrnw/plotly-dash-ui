@@ -1,4 +1,3 @@
-from globals import *
 import base64
 import io
 
